@@ -1,4 +1,4 @@
-Copyright (c) 2025 Ambrogio Corti
+Copyright (c) 2026 Ambrogio Corti
 All Rights Reserved.
 
 Questo software è reso disponibile esclusivamente a fini di consultazione.
