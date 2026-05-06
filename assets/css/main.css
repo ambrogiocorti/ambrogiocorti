@@ -2591,3 +2591,10 @@ section,
     padding-top: 8px !important;    /* Spazio sopra al testo */
     padding-bottom: 8px !important; /* Spazio sotto al testo */
 }
+
+/* Centra le icone social della pagina (Hero) SOLO su dispositivi mobili */
+@media (max-width: 991px) {
+  .hero .social-links {
+    justify-content: center;
+  }
+}
