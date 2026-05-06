@@ -2580,9 +2580,14 @@ section,
   }
 }
 
-/*--------------------------------------------------------------
-# Starter Section Section
---------------------------------------------------------------*/
-.starter-section {
-  /* Add your styles here */
+/* Modifica grandezza testo del menu principale */
+.navmenu a, 
+.navmenu a:focus {
+    font-size: 17px !important; /* Abbassa questo valore a piacimento (es. 13px, 12px) */
+}
+
+.navmenu .dropdown ul a {
+    font-size: 13px !important;
+    padding-top: 8px !important;    /* Spazio sopra al testo */
+    padding-bottom: 8px !important; /* Spazio sotto al testo */
 }
