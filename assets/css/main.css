@@ -2598,3 +2598,76 @@ section,
     justify-content: center;
   }
 }
+
+/*--------------------------------------------------------------
+# Projects Modal Custom Styles
+--------------------------------------------------------------*/
+.modal-content {
+  background-color: var(--surface-color); /* Sfondo del modale */
+  color: var(--default-color); /* Colore del testo */
+  border: 1px solid color-mix(in srgb, var(--default-color), transparent 80%);
+  border-radius: 1rem;
+}
+
+.modal-header {
+  border-bottom: 1px solid color-mix(in srgb, var(--default-color), transparent 80%);
+  padding: 1.5rem;
+}
+
+.modal-title {
+  color: var(--heading-color); /* Colore del titolo del modale */
+  font-family: var(--heading-font);
+  font-size: 1.75rem;
+  font-weight: 700;
+}
+
+.modal-header .btn-close {
+  filter: invert(1) grayscale(100%) brightness(200%); /* Rende la X bianca per temi scuri */
+}
+
+.modal-body {
+  padding: 1.5rem;
+}
+
+.modal-footer {
+  border-top: 1px solid color-mix(in srgb, var(--default-color), transparent 80%);
+  padding: 1.5rem;
+}
+
+.modal-footer .btn-secondary {
+  background-color: var(--background-color);
+  color: var(--default-color);
+  border-color: color-mix(in srgb, var(--default-color), transparent 70%);
+}
+
+.modal-footer .btn-secondary:hover {
+  background-color: color-mix(in srgb, var(--background-color), white 10%);
+  border-color: var(--accent-color);
+}
+
+.project-card-link {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  height: 100%;
+}
+
+.project-card-link:hover .project-card {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px color-mix(in srgb, var(--accent-color), transparent 70%);
+}
+
+.project-card {
+  background-color: var(--background-color);
+  border: 1px solid color-mix(in srgb, var(--default-color), transparent 85%);
+  border-radius: 0.75rem;
+  padding: 1rem;
+  transition: all 0.3s ease;
+  height: 100%;
+}
+
+.project-card .card-text {
+  color: var(--default-color) !important;
+  opacity: 0.85;
+  font-size: 0.82em;
+}
