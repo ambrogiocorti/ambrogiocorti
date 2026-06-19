@@ -1,0 +1,100 @@
+[
+  {
+    "name": "Oratorio SACER",
+    "url": "https://oratoriosacer.ambrogio-corti.it",
+    "description": "Website for Oratorio SACER, built with modern web technologies.",
+    "icon": "bi-globe",
+    "category": "Web Development"
+  },
+  {
+    "name": "Forest 4 Future",
+    "url": "http://f4f.ambrogio-corti.it",
+    "description": "Environmental sustainability project focused on urban reforestation.",
+    "icon": "bi-tree",
+    "category": "Environmental"
+  },
+  {
+    "name": "Antenne",
+    "url": "https://differenzasegnale.ambrogio-corti.it/",
+    "description": "Analysis and visualization of signal differences for antennas.",
+    "icon": "bi-broadcast",
+    "category": "Data Analysis"
+  },
+  {
+    "name": "Salute Axioma",
+    "url": "https://saluteaxioma.ambrogio-corti.it/",
+    "description": "Platform for personal health management and monitoring.",
+    "icon": "bi-heart-pulse",
+    "category": "Health Tech"
+  },
+  {
+    "name": "Studio Magi",
+    "url": "http://studiomagi.it/",
+    "description": "Professional website for a consulting firm, with a focus on usability.",
+    "icon": "bi-building",
+    "category": "Web Design"
+  },
+  {
+    "name": "TravelHub",
+    "url": "http://travelhub.space/",
+    "description": "Hub for planning and sharing travel itineraries.",
+    "icon": "bi-airplane",
+    "category": "Travel"
+  },
+  {
+    "name": "ITSOS Cup",
+    "url": "https://itsoscup.it",
+    "description": "Official website for the annual ITSOS Cup sporting event.",
+    "icon": "bi-trophy",
+    "category": "Event Management"
+  },
+  {
+    "name": "Cogestione Website",
+    "url": "https://cogestione.website",
+    "description": "A project focused on co-management and collaborative platforms.",
+    "icon": "bi-people",
+    "category": "Collaboration"
+  },
+  {
+    "name": "Parola Viva",
+    "url": "https://parolaviva.net",
+    "description": "Platform for evangelization and sharing religious content with children.",
+    "icon": "bi-chat-quote",
+    "category": "Community"
+  },
+  {
+    "name": "Shabbat Famiglia",
+    "url": "https://shabbatfamiglia.info",
+    "description": "Informational platform for family retreats.",
+    "icon": "bi-book",
+    "category": "Community"
+  },
+  {
+    "name": "MyLib",
+    "url": "https://mylib.ambrogio-corti.it",
+    "description": "A personal library and book collection management application.",
+    "icon": "bi-bookshelf",
+    "category": "Web Application"
+  },
+  {
+    "name": "Noi e Scarpe",
+    "url": "https://noiescarpe.ambrogio-corti.it",
+    "description": "Bivariate statistics project on shoe usage data.",
+    "icon": "bi-person-badge",
+    "category": "Data Analysis"
+  },
+  {
+    "name": "BV Cup",
+    "url": "https://bvcup.it",
+    "description": "Official website for the Beach Volleyball Cup tournament.",
+    "icon": "bi-trophy",
+    "category": "Event Management"
+  },
+  {
+    "name": "Vinci O.E.",
+    "url": "https://vincioe.it",
+    "description": "Website for the automatic and complete ranking calculation of a summer oratory.",
+    "icon": "bi-briefcase",
+    "category": "Web Application"
+  }
+]
